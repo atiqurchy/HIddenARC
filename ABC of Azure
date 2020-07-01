@@ -3,9 +3,20 @@ Hyper-v Ubuntu setup is not complex, but one step is crucial: When you create yo
 #linux #ubuntu #HyperV
 If you need any help contact with me at https://twitter.com/atiqurctg 
 -----------------
-Number 01 Tips:
+Number 02 Tips:
 Installing Azure CLI
 There are instruction for installtion for any OS
 https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
 If you need any help contact with me at https://twitter.com/atiqurctg 
+---
+Number 03 Tips: How to Create Private Key/Public Key
 
+By using Puttygen/MobaXtrem
+
+If you need any help contact with me at https://twitter.com/atiqurctg
+------------------
+Number 04 Tips:
+
+Creating New VM
+
+Use SSH open by Public key You can see it by ResoucesGroup--> VM-nsg
