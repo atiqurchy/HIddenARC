@@ -2,4 +2,10 @@ Number 01 Tips:
 Hyper-v Ubuntu setup is not complex, but one step is crucial: When you create your user account, do not select the Log In Automatically option. It will cause xrdp to fail. What did you think?
 #linux #ubuntu #HyperV
 If you need any help contact with me at https://twitter.com/atiqurctg 
+-----------------
+Number 01 Tips:
+Installing Azure CLI
+There are instruction for installtion for any OS
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
+If you need any help contact with me at https://twitter.com/atiqurctg 
 
