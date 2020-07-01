@@ -20,3 +20,11 @@ Number 04 Tips:
 Creating New VM
 
 Use SSH open by Public key You can see it by ResoucesGroup--> VM-nsg
+
+------------------------
+
+Number 05 Tips:
+
+azure cli reference
+
+https://docs.microsoft.com/en-us/cli/azure/vm?view=azure-cli-latest
